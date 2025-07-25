@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**sanchi1004/sanchi1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sanchi Khandelwal**, a Computer Science undergraduate at VIT Vellore passionate about backend development, data systems, and automation.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I love building clean, scalable, and efficient systems.
+- 🌱 Currently exploring backend frameworks, cloud technologies, and system design.
+- 👯 Looking to collaborate on open-source backend or data-related projects.
+- 💬 Ask me about Python, SQL, APIs, or anything tech-related!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:**C. Python, SQL, JavaScript, HTML/CSS  
+- **Tools & Frameworks:** Git, Flask, Node.js, Pandas  
+- **Databases:** MySQL, MongoDB
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/sanchi1004)
+- Email: sanchikhandelwal10@gmail.com
+
+---
+
+Thanks for visiting my profile! 😊
